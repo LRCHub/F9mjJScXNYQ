@@ -1,0 +1,36 @@
+# Dimitri Vegas & Like Mike, Marlon Hoffstadt and DJ Konik – Makina Time
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.13] It's that time for you to get on the floor
+[00:02.72] Now move that body and show me you want some more
+[00:05.87] It's that time for you to get on the floor
+[00:08.53] Now move that body and show me you want some more
+[00:33.03] 
+[00:11.13] Get on the floor
+[00:11.24] You want some more
+[00:16.13] Get on the floor
+[00:21.99] You want some more
+[00:30.99] 
+[00:46.59] It's that time for you to get on the floor
+[00:49.29] Now move that body and show me you want some more
+[00:52.46] It's that time for you to get on the floor
+[01:24.06] Now move that body and show me you want some more
+[01:48.56] 
+[01:26.73] Get on the floor
+[01:26.74] You want some more
+[01:35.74] 
+[01:27.04] It's that time for you to get on the floor
+[01:29.92] Now move that body and show me you want some more
+[01:33.17] It's that time for you to get on the floor
+[01:35.78] Now move that body and show me you want some more
+[02:00.28] 
+[01:38.90] Get on the floor
+[01:41.54] You want some more
+[01:50.54] 
+[01:56.30] It's that time for you to get on the floor
+[01:58.97] Now move that body and show me you want some more
+[02:02.26] It's that time for you to get on the floor
+[02:04.87] Now move that body and show me you want some more
+```
