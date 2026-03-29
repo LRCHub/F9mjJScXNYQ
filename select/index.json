@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Makina Time",
+  "base_artist": "Dimitri Vegas & Like Mike, Marlon Hoffstadt and DJ Konik",
+  "createdAt": "2026-03-29T11:34:51.333818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Makina Time",
+      "artist": "Dimitri Vegas & Like Mike, Marlon Hoffstadt, DJ Konik",
+      "has_synced": true,
+      "path": "select/01_Makina_Time_Dimitri_Vegas_&_Like_Mike,_Marlon_Hoffstadt,_DJ_Konik.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Makina Time",
+      "artist": "Dimitri Vegas & Like Mike • Marlon Hoffstadt • DJ Konik",
+      "has_synced": true,
+      "path": "select/02_Makina_Time_Dimitri_Vegas_&_Like_Mike_•_Marlon_Hoffstadt_•_DJ_Konik.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Makina Time",
+      "artist": "Dimitri Vegas & Like Mike, Marlon Hoffstadt, Dj Konik, Dimitri Vegas",
+      "has_synced": true,
+      "path": "select/03_Makina_Time_Dimitri_Vegas_&_Like_Mike,_Marlon_Hoffstadt,_Dj_Konik,_Dimitri_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Makina Time",
+      "artist": "Dimitri Vegas & Like Mike x Marlon Hoffstadt x Dj Konik x Dimitri Vegas",
+      "has_synced": true,
+      "path": "select/04_Makina_Time_Dimitri_Vegas_&_Like_Mike_x_Marlon_Hoffstadt_x_Dj_Konik_x_Dimitri_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Makina Time",
+      "artist": "Marlon Hoffstadt",
+      "has_synced": true,
+      "path": "select/05_Makina_Time_Marlon_Hoffstadt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Makina Time",
+      "artist": "Dimitri Vegas & Like Mike, Marlon Hoffstadt, Dj Konik, Dimitri Vegas, Like Mike",
+      "has_synced": true,
+      "path": "select/06_Makina_Time_Dimitri_Vegas_&_Like_Mike,_Marlon_Hoffstadt,_Dj_Konik,_Dimitri_Vegas,_Like_Mike.lrc"
+    }
+  ]
+}
